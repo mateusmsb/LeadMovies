@@ -2,10 +2,8 @@ import React, { Component } from "react";
 import {
   Text,
   ScrollView,
-  SafeAreaView,
   FlatList,
   View,
-  TouchableOpacity,
   Image,
   Dimensions
 } from "react-native";
